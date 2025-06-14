@@ -1,0 +1,11 @@
+{
+  "name": "com.google.chrome.redmine",
+  "description": "My Extension Native Host",
+  "path": "C:\\Users\\moriya\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "args": [
+    "C:\\Users\\moriya\\Desktop\\redmine\\extentions-test\\selenium_redmine.py"
+  ],
+  "type": "stdio",
+  "allowed_origins": ["chrome-extension://gifhfegioeifomdpkkkkgdhnfbkfbegb/"],
+  "_comment": "IDはedge://extensions/で確認することができる。またedgeでもchrome-extenrionと記述する"
+}
